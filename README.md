@@ -3,7 +3,7 @@
 I'm Md Afroj, MCA student and Tech enthusiast currently focused on Python and MERN stack.
 
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,vscode,mysql,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,html,css,js,vscode,idea,mysql,postgres,git,github)](https://skillicons.dev)
 
 <!--
 **MDAFROJ1445/MDAFROJ1445** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
